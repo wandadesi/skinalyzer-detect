@@ -1,0 +1,22 @@
+# Web Framework
+Flask
+flask-cors
+python-dotenv
+
+# Firebase Admin SDK
+firebase-admin
+
+# Image & Model Handling
+Pillow
+opencv-python
+numpy
+
+# YOLOv5 (via torch hub) atau YOLOv8 (ultralytics)
+torch>=1.9.0
+
+# Untuk YOLOv5
+# Jika kamu ingin clone langsung dari repo:
+# git+https://github.com/ultralytics/yolov5.git
+
+# Untuk YOLOv8 (jika kamu memakai versi terbaru)
+# ultralytics==8.0.20  # uncomment jika pakai YOLOv8, jangan dipakai bersamaan dengan yolov5
